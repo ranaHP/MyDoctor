@@ -12,9 +12,13 @@ export default {
           dark: '#0c87b8',
         },
         secondary: {
-          light: '#ff7ce5',
-          DEFAULT: '#ff49db',
-          dark: '#ff16d1',
+          default: '#fc6058', // Complementary color
+          analogous1: '#FFAF51', // First analogous color
+          analogous2: '#FF51A1', // Second analogous color
+        },
+        tertiary: {
+          default: '#3fabf3', // Complementary color
+          
         },
         neutral: {
           light: '#f7f7f7',
