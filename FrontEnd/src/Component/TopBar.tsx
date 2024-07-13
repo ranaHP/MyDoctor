@@ -4,7 +4,7 @@ import { GrYoutube } from 'react-icons/gr';
 
 const TopBarComponent = () => {
     return (
-        <div className='bg-neutral-light h-[40px] flex items-center justify-center py-8'>
+        <div className='bg-muted h-[40px] flex items-center justify-center py-8'>
             <div className='max-w-[1150px] w-full lg:px-14  flex items-center justify-between'>
                 <p className='text-center font-poppins text-[13px] text-gray-500 font-medium'>Emergency Help!</p>
                 <div className='flex'>
