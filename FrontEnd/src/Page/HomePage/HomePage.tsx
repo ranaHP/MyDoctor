@@ -1,3 +1,4 @@
+import HeroSection from '../../Component/HeroSection'
 import MainNavbarComponent from '../../Component/MainNavbar'
 import TopBarComponent from '../../Component/TopBar'
 
@@ -6,6 +7,7 @@ const HomePage = () => {
     <div className=''>
         <TopBarComponent/>
         <MainNavbarComponent/>
+        <HeroSection/>
     </div>
   )
 }
