@@ -1,5 +1,5 @@
 import './App.css'
-import HomePage from './Page/HomePage/HomePage'
+import HomePage from './Page/User/HomePage'
 
 import { cn } from "./lib/utils"
 
